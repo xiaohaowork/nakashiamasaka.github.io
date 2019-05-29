@@ -1,4 +1,4 @@
-# nakashiamasaka.github.io
+# nakashiamasaka
 一个博客空间
 
 ##约定：
@@ -19,5 +19,7 @@
 
 一个曾经想着改变世界的少年
 
-后来失败变成「不良」
+后来失败变成「不良」少年
+
+折腾过hexo、也有过jekelly、medium、google blogger…..好像没有一个满意的，所以干脆就停止了，只在朋友圈默默的发发牢骚。
 
